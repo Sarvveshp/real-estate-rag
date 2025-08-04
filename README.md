@@ -22,7 +22,11 @@ pip install -r requirements.txt
 OPENAI_API_KEY=your_openai_api_key_here
 ```
 
-3. Place your data files:
+3. Download the required data files:
+- Properties CSV: [Download properties.csv](https://drive.google.com/file/d/1tfMDeQN5BzIsKkcxM6V_qdJoj6u0AXDs/view?usp=sharing)
+- Guidelines PDF: [Download guidelines.pdf](https://drive.google.com/file/d/18hb_T3U7fRxw_82oAHUuFPcjrYa8B7eF/view?usp=sharing)
+
+4. Place your data files:
 - `properties.csv` - Structured property listings
 - `guidelines.pdf` - Real estate policy guidelines
 
